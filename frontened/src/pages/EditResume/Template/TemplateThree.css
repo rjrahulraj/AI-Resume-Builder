@@ -1,0 +1,95 @@
+.template-five {
+  font-family: 'Segoe UI', sans-serif;
+  background: white;
+  padding: 32px;
+  color: #1f2937;
+  font-size: 14px;
+  width: 210mm;
+  min-height: 297mm;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+header h1 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+header .designation {
+  font-size: 16px;
+  color: #4b5563;
+  margin-bottom: 6px;
+}
+
+header .summary {
+  font-size: 13px;
+  color: #374151;
+  margin-top: 6px;
+}
+
+.contact {
+  font-size: 12px;
+  text-align: center;
+  color: #6b7280;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 16px;
+  margin-bottom: 8px;
+  color: #111827;
+  border-bottom: 1px solid #ccc;
+}
+
+.timeline {
+  border-left: 3px solid #3b82f6;
+  margin-left: 10px;
+  padding-left: 14px;
+}
+
+.timeline .entry {
+  margin-bottom: 14px;
+}
+
+.timeline .entry .date {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.timeline .entry .details h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.timeline .entry ul {
+  margin-left: 16px;
+  list-style-type: disc;
+}
+
+.pill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  padding: 0;
+}
+
+.pill-list li {
+  background-color: #e0f2fe;
+  color: #0369a1;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  font-size: 12px;
+}
+
+.project-block {
+  margin-bottom: 12px;
+}

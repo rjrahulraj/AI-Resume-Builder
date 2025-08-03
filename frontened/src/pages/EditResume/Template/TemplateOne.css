@@ -1,0 +1,114 @@
+.resume-container {
+     display: grid;
+     grid-template-columns: 1fr 2fr;
+     gap: 1rem;
+     background: #ffffff;
+     color: #333;
+     padding: 1.5rem;
+     border-radius: 8px;
+     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+     font-family: sans-serif;
+     font-size: 14px;
+     max-height: 85vh;
+     overflow-y: auto;
+}
+
+.resume-sidebar {
+     background-color: #f9f9f9;
+     padding: 1rem;
+     border-radius: 6px;
+}
+
+.resume-main {
+     padding: 0 1rem;
+}
+
+.name {
+     font-size: 20px;
+     font-weight: bold;
+     text-transform: uppercase;
+     margin-bottom: 0.2rem;
+}
+
+.designation {
+     font-size: 14px;
+     color: #666;
+}
+
+.summary {
+     font-size: 13px;
+     margin-top: 0.5rem;
+     color: #555;
+}
+
+.sidebar-section {
+     margin-top: 1rem;
+}
+
+.sidebar-section h2 {
+     font-size: 14px;
+     font-weight: bold;
+     margin-bottom: 0.3rem;
+     color: #444;
+}
+
+.sidebar-section ul {
+     list-style: none;
+     padding-left: 0;
+}
+
+.sidebar-section ul li {
+     font-size: 13px;
+     margin-bottom: 0.2rem;
+}
+
+.tag-list {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 6px;
+}
+
+.tag-list li {
+     background-color: #dbeafe;
+     color: #1e40af;
+     padding: 4px 8px;
+     border-radius: 12px;
+     font-size: 12px;
+}
+
+.main-section {
+     margin-bottom: 1rem;
+}
+
+.main-section h2 {
+     font-size: 16px;
+     font-weight: bold;
+     border-bottom: 1px solid #ccc;
+     padding-bottom: 4px;
+     margin-bottom: 0.5rem;
+     color: #222;
+}
+
+.main-section h3 {
+     font-size: 14px;
+     font-weight: 600;
+     margin-bottom: 0.2rem;
+     color: #333;
+}
+
+.date {
+     font-size: 12px;
+     font-style: italic;
+     color: #777;
+     margin-bottom: 0.3rem;
+}
+
+.main-section ul {
+     list-style-type: disc;
+     padding-left: 20px;
+     margin-bottom: 0.5rem;
+}
+.export-pdf #resume-preview {
+  max-height: unset !important;
+  overflow: visible !important;
+}

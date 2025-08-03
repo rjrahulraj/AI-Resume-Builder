@@ -1,0 +1,5 @@
+
+.export-pdf #resume-preview {
+  max-height: unset !important;
+  overflow: visible !important;
+}
