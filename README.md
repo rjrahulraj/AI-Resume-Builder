@@ -36,13 +36,22 @@ cd AI-Resume-Builder
 ### Backened Setup
 cd backend
 npm install
-cp .env.example .env # Add your environment variables
 npm start
+cp .env.example .env # Add your environment variables
+VITE_BACKENED_URL=http://localhost:5000
+VITE_OPENAI_API_KEY=your_openai_key
+
+
 
 ### Frontened Setup
 cd frontend
 npm install
-cp .env.example .env # Add your environment variables
 npm run dev
+cp .env.example .env # Add your environment variables
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret
+OPENAI_API_KEY=your_openai_key
+
 
 
