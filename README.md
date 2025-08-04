@@ -23,7 +23,14 @@ An AI-powered web application that helps you create professional, personalized, 
 
 ## 📸 Screenshots
 
-> Add screenshots here to show templates and AI usage
+<img width="1346" height="633" alt="image" src="https://github.com/user-attachments/assets/99ff71df-be8e-48e6-aa9e-80d6faff5649" />
+<img width="1342" height="499" alt="image" src="https://github.com/user-attachments/assets/51a0bf94-93e9-4a48-90d7-1b396448b54d" />
+<img width="1338" height="633" alt="image" src="https://github.com/user-attachments/assets/8b747514-fd2e-4882-8c87-11706d9b8663" />
+<img width="1366" height="630" alt="image" src="https://github.com/user-attachments/assets/8153b461-ee27-488b-8b6d-7b521ac24289" />
+<img width="1354" height="628" alt="image" src="https://github.com/user-attachments/assets/863bfce1-309c-4b13-b098-b135d7e2181f" />
+
+
+
 
 ## 📦 Installation
 
