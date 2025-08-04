@@ -1,5 +1,5 @@
-import React from "react";
-import "./Templateone.css";
+
+import "./TemplateOne.css";
 
 const TemplateOne = ({ resumeData }) => {
      const {
