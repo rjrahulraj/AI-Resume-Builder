@@ -1,5 +1,12 @@
 # 🚀 AI Resume Builder
 
+
+**Live Demo:** [Launch the app →](https://ai-resumebuilder-y8qz.onrender.com)
+
+🔑 **Demo Login Credentials**  
+- Email: `john@gmail.com`  
+- Password: `12345678` 
+
 An AI-powered web application that helps you create professional, personalized, and ATS-optimized resumes within seconds. Choose from modern templates, get real-time AI suggestions, and instantly export resumes in high-quality PDF format.
 
 
